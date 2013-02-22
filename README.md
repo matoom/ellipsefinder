@@ -1,10 +1,10 @@
 Ellipse finder
 =============
 
-### Into to Android dev and setting up SDK
+### Setting up SDK and Intro to Android dev
 
-http://docs.opencv.org/trunk/doc/tutorials/introduction/android_binary_package/android_dev_intro.html#android-dev-intro
 http://docs.opencv.org/doc/tutorials/introduction/android_binary_package/O4A_SDK.html
+http://docs.opencv.org/trunk/doc/tutorials/introduction/android_binary_package/android_dev_intro.html#android-dev-intro
 
 
 ### Setting up project
